@@ -1,0 +1,20 @@
+{
+  "name": "chapel.github.com",
+  "version": "0.0.1",
+  "description": "Personal blog",
+  "main": "",
+  "devDependencies": {
+    "grunt": "0.3.17",
+    "mkdirp": "0.3.4",
+    "wintersmith": "1.2.2",
+    "wintersmith-less": "0.1.0"
+  },
+  "scripts": {
+    "deploy": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chapel/chapel.github.com.git"
+  },
+  "author": "chapel"
+}
